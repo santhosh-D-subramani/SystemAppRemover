@@ -1,0 +1,49 @@
+name: systemappremover
+description: "Flutter App that deletes System Apps(Bloatware especially)."
+publish_to: 'none'
+version: 6.0.0+6
+environment:
+  sdk: ^3.5.3
+dependencies:
+  animate_do: ^3.3.4
+  #app_bar_with_search_switch: ^1.8.6
+  clipboard: ^0.1.3
+  cupertino_icons: ^1.0.8
+  device_apps: ^2.2.0
+  device_info_plus: ^11.0.0
+  dynamic_color: ^1.7.0
+  flutter:
+    sdk: flutter
+  #flutter_scrolling_fab_animated: ^0.1.5
+  flutter_slidable: ^3.1.1
+  fluttertoast: ^8.2.8
+  get: ^4.6.6
+  country_flags: ^3.0.0
+  grouped_list: ^6.0.0
+  google_mobile_ads: ^5.2.0
+  hsv_color_pickers: ^0.3.0
+  logger: ^2.4.0
+  modal_bottom_sheet: ^3.0.0
+  #pubspec_dependency_sorter: ^1.0.5
+  shared_preferences: ^2.3.2
+  social_media_flutter: ^0.0.2
+  toastification: ^2.3.0
+  toggle_switch: ^2.3.0
+  collection: 1.18.0
+  youtube_player_iframe: ^5.2.0
+  app_version_update: ^5.0.3
+  package_info_plus: ^8.0.3
+  adblock_detector: ^0.0.2
+  firebase_core: ^3.6.0
+  firebase_crashlytics: ^4.1.3
+  skeletonizer: ^1.4.2
+  page_transition: ^2.1.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/logo.png

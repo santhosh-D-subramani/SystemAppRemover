@@ -1,0 +1,1 @@
+enum ColorMode { system, custom }
