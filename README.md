@@ -9,37 +9,37 @@
 ## Features
 
 - **System App Categorization**: The app filters system apps into the following categories:
-    - `recommendedApps`
-    - `advancedApps`
-    - `expertApps`
-    - `unsafeApps`
-    - `others`
+  - `recommendedApps`
+  - `advancedApps`
+  - `expertApps`
+  - `unsafeApps`
+  - `others`
 
 - **App Selection & Copy**: Users can select apps from these categories and copy their package names. These can then be pasted directly into **AShell**, an app that uses the Shizuku API to run ADB commands directly on the Android device.
 
-- **History & Analysis**:
-    - **Copied Apps History**: The history page maintains a list of copied app package names along with the commands applied to them:
-        - `pm uninstall --user 0`
-        - `pm uninstall -k --user 0`
-        - `pm disable-user --user 0`
-    - The command prefix (selected in the settings screen) is applied to each copied app.
-    - **App Analysis**: The analysis page scans the copied list and checks whether the apps have been deleted. It also provides the option to try a different command prefix if the uninstallation was unsuccessful.
+- **History & Analysis**: 
+  - **Copied Apps History**: The history page maintains a list of copied app package names along with the commands applied to them:
+    - `pm uninstall --user 0`
+    - `pm uninstall -k --user 0`
+    - `pm disable-user --user 0`
+  - The command prefix (selected in the settings screen) is applied to each copied app.
+  - **App Analysis**: The analysis page scans the copied list and checks whether the apps have been deleted. It also provides the option to try a different command prefix if the uninstallation was unsuccessful.
 
 - **Language Support**: The app supports multiple languages:
-    - English (`en_US`)
-    - German (`de_DE`)
-    - French (`fr_FR`)
-    - Hindi (`hi_IN`)
-    - Tamil (`ta_IN`)
-    - Chinese (`zh_CN`)
-    - Japanese (`ja_JP`)
-    - Spanish (`es_ES`)
-    - Portuguese (`pt_PT`)
-    - Russian (`ru_RU`)
+  - English (`en_US`)
+  - German (`de_DE`)
+  - French (`fr_FR`)
+  - Hindi (`hi_IN`)
+  - Tamil (`ta_IN`)
+  - Chinese (`zh_CN`)
+  - Japanese (`ja_JP`)
+  - Spanish (`es_ES`)
+  - Portuguese (`pt_PT`)
+  - Russian (`ru_RU`)
 
 - **Theme Switching**:
-    - Users can switch between light and dark themes.
-    - The app supports custom themes based on user-picked colors or device wallpapers.
+  - Users can switch between light and dark themes.
+  - The app supports custom themes based on user-picked colors or device wallpapers.
 
 ## Contributing
 
