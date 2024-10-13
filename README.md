@@ -4,7 +4,7 @@
 
 ## Download
 
-[play store]:https://play.google.com/store/apps/details?id=com.santhoshDsubramani.systemappremover
+[Play Store Link](https://play.google.com/store/apps/details?id=com.santhoshDsubramani.systemappremover)
 
 ## Features
 
