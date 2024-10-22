@@ -7,10 +7,14 @@
 [Play Store Link](https://play.google.com/store/apps/details?id=com.santhoshDsubramani.systemappremover)
 
 ## TODO
+<br>
 
-- create a new flugin plugin for Shizuku Api
-- add ADB inBuilt to app, with relying on a-Shell
+| Task                   | Status   |
+|------------------------|----------|
+| create a [new flugin plugin for Shizuku Api](https://pub.dev/packages/shizuku_api)     | ✅ Done  |
+| add ADB inBuilt to app, without relying on a-Shell  | ⬜ To Do |
 
+<br>
 ## Features
 
 - **System App Categorization**: The app filters system apps into the following categories:
