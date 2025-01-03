@@ -12,7 +12,7 @@
 | Task                   | Status   |
 |------------------------|----------|
 | create a [new flugin plugin for Shizuku Api](https://pub.dev/packages/shizuku_api)     | ✅ Done  |
-| add ADB inBuilt to app, without relying on a-Shell  | ⬜ To Do |
+| add ADB inBuilt to app, without relying on a-Shell  |  ✅ Done in upcoming version |
 
 <br>
 ## Features
